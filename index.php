@@ -4,7 +4,7 @@ ini_set('display_errors', 0);
 require_once('EpiCurl.php');
 require_once('EpiOAuth.php');
 require_once('EpiTwitter.php');
-require_once('function.php');
+require_once('functions.php');
 
 
 
@@ -17,6 +17,6 @@ $twitterObj = new EpiTwitter($consumer_key, $consumer_secret);
 $twitterObj->useAsynchronous(true);
 $twitterObj->setToken($access_token, $access_token_secret);
 
-getFriends("username");
+getFriends("username"); // 'username' it's your developer account screen name. 
 
 ?>
