@@ -27,6 +27,6 @@ And that's all OK.
 You run index.php and finally your web site echo '<b>All proccess OK</b>'.
 
 Have a good day :)<br><br>
-Twitter - https://twitter.com/KutsalMidye<br>
-Instagram - http://instagram.com/aliosmanyuksel<br>
-Website - http://tutkal.me<br>
+Twitter - https://twitter.com/AliOsmanYuksel<br>
+Instagram - https://www.instagram.com/aliosmanyuksel<br>
+Website - https://aliosmanyuksel.com.tr<br>
